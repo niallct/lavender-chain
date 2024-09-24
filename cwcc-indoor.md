@@ -34,19 +34,17 @@
 * If the ball hits waiting players or their bags, it is dead
 
 ## To try Sept 2024
-[ ] what do we do with the net on the end wall?
-[ ] put the striker's end wicket closer to the wall than we had it, and take a photo
-[ ] tape on the floor as creases and wide lines
-[ ] use a different coloured ball (orange or yellow were suggested)
-[ ] what do we do about three sixes - out? just swap ends?
-[ ] is there a too-high on the end wall line? top of the net?
-[ ] change ends when striker out? non-striker out?
-[ ] wicket-keeper -- allow subs, I think; any element of auto-wickie?
+- [ ] what do we do with the net on the end wall?
+- [ ] put the striker's end wicket closer to the wall than we had it, and take a photo
+- [ ] tape on the floor as creases and wide lines
+- [ ] use a different coloured ball (orange or yellow were suggested)
+- [ ] what do we do about three sixes - out? just swap ends?
+- [ ] is there a too-high on the end wall line? top of the net?
+- [ ] change ends when striker out? non-striker out?
+- [ ] wicket-keeper -- allow subs, I think; any element of auto-wickie?
 
 ## Other variations we thought of
 * schedule so that the same bowling pair bowl both a batting pair's sets, or different; if the former can seed a bit
-
-
-- bowling off 1 or 2 paces only (maybe)
-- possibly -5 is too harsh for a wicket?
+* bowling off 1 or 2 paces only (maybe)
+* possibly -5 is too harsh for a wicket?
 
