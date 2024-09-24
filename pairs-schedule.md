@@ -14,7 +14,7 @@
 ## Suggested playing order
 
 | Bat  | Bowl | Rest |
-----------------------
+|------|------|------|
 |  1   |  3   |  2   |
 |  2   |  4   |  3   |
 |  3   |  5   |  4   |
@@ -22,22 +22,25 @@
 |  5   |  1   |  6   |
 |  6   |  2   |  1   |
 
-Here, each pair bowls, then rests (pads up), then bats.
-There are an even number of pairs; even-numbers pairs bowl to each other, so there can be seeding
+* Here, each pair bowls, then rests (pads up), then bats.
+* There are an even number of pairs; even-numbers pairs bowl to each other, so there can be seeding
 
 ## Another playing order
 
 | Bat  | Bowl | Rest |
-----------------------
-|  1   |  5   |  6   |
-|  2   |  6   |  1   |
+|------|------|------|
+|  1   |  6   |  7   |
+|  2   |  7   |  1   |
 |  3   |  1   |  2   |
 |  4   |  2   |  3   |
 |  5   |  3   |  4   |
 |  6   |  4   |  5   |
+|  7   |  5   |  6   |
 
-In this one a pair bats, then rests, then bowls.
-When two overs left in a set, remind the pair batting next to pad up. With enough players (15 or more) they would be off the field for the whole set anyway.
+* In this one a pair bats, then rests, then bowls
+* Odd number of pairs in this example so no odd/even matchup
+* When two overs left in a set, remind the pair batting next to pad up.
+  * With enough players (15 or more) they would be off the field for the whole set anyway.
 
 
 ## Nuances
