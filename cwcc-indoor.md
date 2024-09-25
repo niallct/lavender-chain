@@ -8,7 +8,7 @@
 * LBW is not used
 * All other modes of dismissal apply
 * No runs can be scored from a hit behind square
-* Byes and leg-byes can be run if the ball goes behind square [?]
+* Byes and leg-byes can be run if the ball goes behind square [?] _yes seems fair, tho note the difficulty of umpiring this (i.e. was there bat involved or not?) -- we can see how it goes_
 * Actual runs made score double
 * Score one for hitting the side wall. 
   * The ball is not dead, so a catch is possible, and if caught score no runs
@@ -24,14 +24,15 @@
 
 ## Pairs format
 * Batting pair get all runs scored, including extras
-* Batting pair lose five for every wicket lost
-* Bowling pair get five for every wicket taken (not run outs)
+* Batting pair lose five for every wicket lost  _shall we try 4?_
+* Bowling pair get five for every wicket taken (not run outs)  _ditto? +4_
 * Catches, stumping, run out get two to the pair effecting it. (For run out this is the person who threw in)
   * alternative - five for outfield ct/ro, two for w-k dismissal
 * The person of the pair bowling  who isn't bowling keeps wicket
 * Try for two overs per batting pair (maybe five-ball sets?)
+* _Pairs selection: randomly count people as 1s or 2s_
 
-## Teams format
+## Teams format [NB: i can also see a pairs-within-teams format]
 * A broadly conventional two side format
 * Probably six or seven a side is best
 * If enough people have a resting side who umpire/score
@@ -46,14 +47,14 @@
 * If the ball hits waiting players or their bags, it is dead
 
 ## To try Sept 2024
-- [ ] what do we do with the net on the end wall?
+- [ ] what do we do with the net on the end wall?  _try drawing it across; see if this seems safer for fielders_
 - [ ] put the striker's end wicket closer to the wall than we had it, and take a photo
 - [ ] tape on the floor as creases, wide lines, and short ball line
 - [ ] use a different coloured ball (orange or yellow were suggested)
-- [ ] what do we do about three sixes - out? just swap ends?
-- [ ] is there a too-high on the end wall line? top of the net?
-- [ ] change ends when striker out? non-striker out?
-- [ ] wicket-keeper -- allow subs, I think; any element of auto-wickie?
+- [ ] what do we do about three sixes - out? just swap ends?  _i think just swap ends for now, but we could make it 3 and out next time_
+- [ ] is there a too-high on the end wall line? top of the net?  _i think not to do this_
+- [ ] change ends when striker out? non-striker out?  _yes_
+- [ ] wicket-keeper -- allow subs, I think; any element of auto-wickie?  _i like the other-person-in-bowling-pair thing mentioned above_
 
 ## Other variations we thought of
 * schedule so that the same bowling pair bowl both a batting pair's sets, or different; if the former can seed a bit
