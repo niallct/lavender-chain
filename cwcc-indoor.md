@@ -5,6 +5,7 @@
 ### General
 * Striker's and bowler's ends are fixed throughout
 * After three balls of not changing ends (eg three dots, three fours), batters change ends
+  * ignore this if time is short, or you forget, or to balance things 
 
 ### Dismissals
 * Hitting the roof is out. ('Hit Roof', bowler gets credit)
@@ -12,6 +13,7 @@
 * LBW is not used
 * All other modes of dismissal apply, but be sensible
 * Swap ends if needed so that the not-out batter faces next ball
+  * but if playing standard not pairs, probably better have the new batter face 
 
 ### Runs
 * No runs can be scored from a hit behind square
@@ -62,7 +64,6 @@
 ## Other variations we thought of
 * schedule so that the same bowling pair bowl both a batting pair's sets, or different; if the former can seed a bit
 * speed up by bowling off 1 or 2 paces only (maybe), or at least a mark on floor
-* don't worry too much about swapping batters after three dots
 * three consecutive sixes could be out
 * consider a line on the end wall which counts as 'roof' above it
 * be flexible on w-k, eg one person keeping throughout, maybe also scoring
@@ -73,6 +74,5 @@
 ## List of materials
 * stumps, bails, bats
 * balls -- several types, try a few out
-* tape for marking the floor
-* measuring tape
+* possibly tape for marking the floor
 * scoresheets and pens
