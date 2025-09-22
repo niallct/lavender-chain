@@ -23,36 +23,36 @@ The session facilitators will either help to field, or apply the rules (umpire) 
 
 ### Score runs by:
 -  running between the wickets, and making it over the line before the fielding side get the ball to the wicket you are running to.
-  +  you don't have to have hit the ball in order to run
-  +  you don't have to run even if you have hit the ball
-  +  try to tell your batting partner whether you want to run or not (this is hard and international players get it wrong sometimes)
-  +  in this indoor game, you can't run if you hit the ball behind you
--  over the line includes your bat if it is on the floor, you will almost always hold it out in front of you when running
-  -  ((when the ball hits your body, you have to have been trying to play a shot to be allowed to run))
+    -  you don't have to have hit the ball in order to run
+    - you don't have to run even if you have hit the ball
+    -  try to tell your batting partner whether you want to run or not (this is hard and international players get it wrong sometimes)
+    -  in this indoor game, you can't run if you hit the ball behind you
+    -  over the line includes your bat if it is on the floor, you will almost always hold it out in front of you when running
+    -  ((when the ball hits your body, you have to have been trying to play a shot to be allowed to run))
 -  hitting the ball into the side wall. You can also run, and score more points
 -  hitting the ball into the end wall. This scores four if it hits the floor first, six if it doesn't.
-  -  the four or six is instead of runs made by actually running.
+    -  the four or six is instead of runs made by actually running.
   
 ### Batters are out when:
 -  the ball bowled to you hits the wicket
 -  you hit the ball and it is caught before it bounces
-	 Hit means with the bat or a hand holding the bat
+    - hit means with the bat or a hand holding the bat
 -  you run but don't reach the line before the ball is thrown onto the wicket
 -  you hit the ball onto the balcony or the roof
 -  (( in receiving the ball you hit the wicket with your body or bat))
 -  (( the wicketkeeper breaks the wicket with the ball and you are in front of the line))
 
-(There are other ways. An important one, which we don’t use indoors, relates to your body being hit instead of the bat. Three more exist but are rare, and we ignore them).
+(There are other ways. An important one, which we don't use indoors, relates to your body being hit instead of the bat. Three more exist but are rare, and we ignore them).
 
 ### An illegal ball:
 -  counts for two points to the batting pair
 -  is one which:
-  -  is so far to either side of the striker they can't reach it
-  -  bounces twice, or rolls
-  -  is thrown rather than bowled. The difference is in whether the arm is straightened during delivery.
-  -  bounces and then goes above the striker's shoulders
-  -  does not bounce and goes above the striker's waist
-  -  is delivered with your feet in the wrong place
+    -  is so far to either side of the striker they can't reach it
+    -  bounces twice, or rolls
+    -  is thrown rather than bowled. The difference is in whether the arm is straightened during delivery.
+    -  bounces and then goes above the striker's shoulders
+    -  does not bounce and goes above the striker's waist
+    -  is delivered with your feet in the wrong place
   
 
 ## Batters should:
@@ -72,15 +72,15 @@ In indoor pairs, there are no runs from hitting the ball behind you, only in fro
 
 ## Bowlers should:
 -  not straighten your arm as you swing it round. Bowl, don't throw.
-  -  it is allowed to be a little bent all the way round if it stays that way
+    -  it is allowed to be a little bent all the way round if it stays that way
 -  keep part of your front foot behind the line
 -  not be very far to one side of the wicket
-  - ((you are allowed to come on either side but you need to tell the umpire which side. Typically if you use your right arm you will approach on the left of the wicket))
+    - ((you are allowed to come on either side but you need to tell the umpire which side. Typically if you use your right arm you will approach on the left of the wicket))
 -  aim the ball:
-  -  to bounce about two-thirds of the way down,
-  -  and in line with the stumps or just to the left,
-	-  but just to the right if the striker is left-handed.
-  -  and to reach the striker between their knees and waist.
+    -  to bounce about two-thirds of the way down,
+    -  and in line with the stumps or just to the left,
+    -  but just to the right if the striker is left-handed.
+    -  and to reach the striker between their knees and waist.
   
 ## All players should:
 -  play fairly and within the rules
@@ -89,6 +89,24 @@ In indoor pairs, there are no runs from hitting the ball behind you, only in fro
 -  respect the decisions of the umpires
 
 The session coordinators may vary the strictness of the rules to keep things balanced. Absolute beginners will be given more generous decisions. Experienced players, especially those who are good, are asked to adjust their style to keep the session fun and welcoming. 
+
+## Some advanced points
+
+There are lots more rules, called Laws, some covering rare or niche circumstances. You can play without needing to understand every Law. Some things which might come up are:
+
+### Fielding -- where to stand
+Indoors, we will spread out roughly evenly. You should stay still until the ball is hit or passes the batter, and can then move.
+
+If two or more of you are trying to take a catch, it's good to `claim' this by shouting your own name. If 
+you run into each other it's harder to catch the ball!
+
+Outdoors, there is a bigger area to cover. The captain or bowler will ask you to be in a certain place. This is called 'setting a field', what they do will depend on the bowler's and batter's individual styles as well as the match situation. The positions have names which you can look up, but many people just point.
+
+### Fielding -- breaking the wicket
+
+To run out (or stump) a player, you can only use your hands or arm if you are holding the ball in that hand. You can't use your feet, or hold the ball in your right hand and break the wicket with your left. But you can use both hands (and the ball) together.
+
+Indoors we don't often use bails because they slow things down. Instead, we will just estimate whether it is close enough. Outdoors, it is sufficient to just knock the bail off. 
 
 ## Differences to the outdoor game
 
@@ -104,6 +122,6 @@ We can play pairs outdoors too, with the same idea that everyone rotates round a
 The traditional form of the game puts one team of eleven against another. In this:
 -  Only batters score runs
 -  When a batter is out, their turn batting is over and someone else takes their place
--  When ten of the eleven or out, or the planned number of balls has been bowled, the sides swap
+-  When ten of the eleven are out, or the planned number of balls has been bowled, the sides swap
 -  After both sides have batted, the side with the most runs wins.
 
